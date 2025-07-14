@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Mon, 14 Jul 2025 01:01:46 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+S7oryo9stv: 7F277A49D7C884F9293AEA9E10202CFF
+X-Geoip-Country-Code: BR
+X-Cache: Miss from cloudfront
+Via: 1.1 5798112148ae9e672af737182da15f62.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: ivO0LZjvQcKd6zdQ-9iC6kaXJDVOUXVJwFCa9l4MmUtBZdXzyQqVYg==
+
+{"success":true,"responseCodes":[{"responseCode":849,"responseKey":"GO_TO_UPDATE_PERSONAL_DETAILS","responseMessage":"com.pronetgaming.odin.userservice.services.LoginService"},{"responseCode":1,"responseKey":"SUCCESS","responseMessage":"com.pronetgaming.odin.userservice.services.LoginService"}],"data":{"customerId":68615990,"traderId":537,"languageId":23,"currencyId":12,"firstName":"TAMYRES","surname":"SANTOS","username":"kq7or3oemg","code":"2025066485653","email":"ta******@gm******","phone":"5571952175015","lastLoginDate":1752454847000,"country":"BR","lastLogoutDate":1752454878000,"kycVerified":true,"kycStatus":4,"balance":3.02,"grossBalance":3.02,"lockedBalance":0.0,"isActiveOtp":false,"phoneConfirmed":false,"depositSignPost":false,"scbbPermission":true,"minimal":false,"spaConsentDate":1752445299741,"vip":false}}
