@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250713_220201", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250713_220201/request_001.txt", 
+      "url": "https://vaidebet.bet.br:443/api/user/login", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250713_220201/response_001.txt", 
+      "timestamp": 1752454921597
+    }
+  ], 
+  "host": "vaidebet.bet.br", 
+  "total_requests": 1
+}
